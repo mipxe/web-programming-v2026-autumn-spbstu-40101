@@ -11,7 +11,7 @@ body {
   padding: 10px;
 }
 
-.page__title {
+.title {
   margin: 0;
   padding: 10px;
   font-family: Arial, sans-serif;
@@ -34,7 +34,7 @@ body {
   border-radius: 6px;
 }
 
-.card__image {
+.cardimage {
   display: block;
   width: 200px;
   height: 150px;
@@ -42,7 +42,7 @@ body {
   object-fit: cover;
 }
 
-.card__title {
+.cardtitle {
   margin: 0;
   padding: 10px;
   font-family: Arial, sans-serif;
@@ -50,7 +50,7 @@ body {
   font-weight: bold;
 }
 
-.card__description {
+.carddescription {
   margin: 0;
   padding: 10px;
   font-family: Arial, sans-serif;
